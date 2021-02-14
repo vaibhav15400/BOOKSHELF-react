@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bookshelf-react/static/css/main.a82604cb.chunk.css",
+    "main.js": "/bookshelf-react/static/js/main.d30e04e1.chunk.js",
+    "main.js.map": "/bookshelf-react/static/js/main.d30e04e1.chunk.js.map",
+    "runtime-main.js": "/bookshelf-react/static/js/runtime-main.8a27057b.js",
+    "runtime-main.js.map": "/bookshelf-react/static/js/runtime-main.8a27057b.js.map",
+    "static/js/2.b01ef2a4.chunk.js": "/bookshelf-react/static/js/2.b01ef2a4.chunk.js",
+    "static/js/2.b01ef2a4.chunk.js.map": "/bookshelf-react/static/js/2.b01ef2a4.chunk.js.map",
+    "static/js/3.15b6d7d1.chunk.js": "/bookshelf-react/static/js/3.15b6d7d1.chunk.js",
+    "static/js/3.15b6d7d1.chunk.js.map": "/bookshelf-react/static/js/3.15b6d7d1.chunk.js.map",
+    "index.html": "/bookshelf-react/index.html",
+    "static/css/main.a82604cb.chunk.css.map": "/bookshelf-react/static/css/main.a82604cb.chunk.css.map",
+    "static/js/2.b01ef2a4.chunk.js.LICENSE.txt": "/bookshelf-react/static/js/2.b01ef2a4.chunk.js.LICENSE.txt",
+    "static/media/Logo.0427074c.png": "/bookshelf-react/static/media/Logo.0427074c.png",
+    "static/media/construction.985544f5.gif": "/bookshelf-react/static/media/construction.985544f5.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a27057b.js",
+    "static/js/2.b01ef2a4.chunk.js",
+    "static/css/main.a82604cb.chunk.css",
+    "static/js/main.d30e04e1.chunk.js"
+  ]
+}
