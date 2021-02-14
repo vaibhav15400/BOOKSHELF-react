@@ -1,0 +1,14 @@
+
+
+.GIF{
+    background-color: rgb(255, 255, 255);
+    padding:8px;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 100%;
+    margin: 16px auto;
+    border: 1rem solid slateblue;
+    display: flex;
+    justify-content: center;
+
+}

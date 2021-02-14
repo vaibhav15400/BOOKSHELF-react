@@ -1,0 +1,71 @@
+[    {
+        "id": "1",
+        "user":"one",
+        "name": "Front-End Web Development: The Big Nerd Ranch Guide",
+        "author": " Charis Aquino",
+        "image":"https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0134433947&Format=_SL350_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=whatpixel-20&language=en_US"
+    },
+    {
+        "id": "2",
+        "user":"two",
+        "name": "JavaScript: The Good Parts",
+        "author": "O.reilly",
+        "image":"https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0596517742&Format=_SL350_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=whatpixel-20&language=en_US"
+    },
+    {
+        "id": "3",
+        "user":"three",
+        "name": "HTML & CSS",
+        "author": "Jhon Duct",
+        "image":"https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118008189&Format=_SL350_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=whatpixel-20&language=en_US"
+    },
+     {
+        "id": "4",
+        "user":"four",
+        "name": "JavaScript & jQuery",
+        "author": "Jhoan duckett",
+        "image":"https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118531647&Format=_SL350_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=whatpixel-20&language=en_US"
+     },
+     {
+         "id":"5",
+        "user":"five",
+        "name":"HTML5: The Missing Manual",
+         "author":"Mattahew",
+         "image":"https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1449363261&Format=_SL350_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=whatpixel-20&language=en_US"
+     },
+     {
+         "id":"6",
+        "user":"six",
+        "name":"CSS3: The Missing Manual",
+         "author":"Mattahew",
+         "image":"https://images-na.ssl-images-amazon.com/images/I/81rSCJIAZ9L.jpg"
+     },
+     {
+         "id":"7",
+        "user":"seven",
+        "name":"CSS Secrets",
+         "author":"Erica",
+         "image":"https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1449372635&Format=_SL350_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=whatpixel-20&language=en_US"
+     },
+     {
+         "id":"8",
+        "user":"eight",
+        "name":"Front-End Tooling with Gulp, Bower, and Yeoman",
+         "author":"Mannaing",
+         "image":"https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1617292745&Format=_SL350_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=whatpixel-20&language=en_US"
+     },
+     {
+         "id":"9",
+        "user":"nine",
+        "name":"Sass and Compass in Action",
+         "author":"Mannaing",
+         "image":"https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1617290149&Format=_SL350_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=whatpixel-20&language=en_US"
+     },
+     {
+         "id":"10",
+        "user":"ten",
+        "name":"Secrets of the JavaScript Ninja",
+         "author":"Mannaing",
+         "image":"https://johnresig.com/files/jsninja/jsninja-cover.sm.jpg" }
+    
+    ]

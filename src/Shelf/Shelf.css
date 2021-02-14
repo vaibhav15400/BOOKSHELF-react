@@ -1,0 +1,35 @@
+
+.Shelf ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+.Shelf li{
+    display: inline-block;
+    margin: 20px;
+}
+
+.Shelf a{
+    text-decoration: none;
+    color:  rgb(37, 228, 196);
+}
+.Shelf a:hover,
+.Shelf a:active{
+    color: orange;
+}
+
+.Stylelogo{
+    padding-top: 45px;
+    width:100%;
+    justify-content: center;
+    display: flex;
+    height: 150px;
+    box-shadow: 100px 18px 6px -6px rgb(20, 174, 235);
+    border-radius: 70%;
+    border-bottom:  rgb(9, 217, 224);
+}
+.Stylelogo :hover{
+    transform: scale(1.5);
+}
